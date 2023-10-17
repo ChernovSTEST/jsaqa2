@@ -1,0 +1,22 @@
+{
+  "name": "hw2",
+  "version": "1.0.0",
+  "description": "hw2",
+  "main": "index.js",
+  "scripts": {
+    "test": "hw2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChernovSTEST/jsaqa2.git"
+  },
+  "keywords": [
+    "hw2"
+  ],
+  "author": "test",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChernovSTEST/jsaqa2/issues"
+  },
+  "homepage": "https://github.com/ChernovSTEST/jsaqa2#readme"
+}
